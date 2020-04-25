@@ -1,3 +1,7 @@
 New text document
+<<<<<<< HEAD
 ~~~
 +++
+=======
+Judiciously
+>>>>>>> newBranch
