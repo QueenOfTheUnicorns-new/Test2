@@ -563,26 +563,26 @@
                 android:background="@color/UnderLinearWhite"
                 android:padding="3dp">
 
-            <ImageView
-                android:layout_width="30dp"
-                android:layout_height="30dp"
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
 
-                android:src="@drawable/bag"
-                android:background="@color/TableRowLinerElement_black"
-                android:textColor="@color/dark"
-                android:textSize="30sp" />
+                    android:src="@drawable/bag"
+                    android:background="@color/TableRowLinerElement_black"
+                    android:textColor="@color/dark"
+                    android:textSize="30sp" />
 
-            <TextView
-                android:id="@+id/shop_money"
-                android:layout_width="70dp"
-                android:layout_height="30dp"
-                android:textStyle="bold"
-                android:text="5467"
+                <TextView
+                    android:id="@+id/shop_money"
+                    android:layout_width="70dp"
+                    android:layout_height="30dp"
+                    android:textStyle="bold"
+                    android:text="5467"
 
-                android:textColor="@color/white"
-                android:gravity="center"
-                android:background="@color/TableRowLinerElement_black"
-                android:textSize="25sp" />
+                    android:textColor="@color/white"
+                    android:gravity="center"
+                    android:background="@color/TableRowLinerElement_black"
+                    android:textSize="25sp" />
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
@@ -624,7 +624,8 @@
                     android:layout_height="30dp"
                     android:id="@+id/shop_back"
 
-                    android:background="@drawable/f_go_btn"                    android:textColor="@color/dark"
+                    android:background="@drawable/f_back"
+                    android:textColor="@color/dark"
                     android:textSize="30sp" />
 
             </LinearLayout>
@@ -636,10 +637,6 @@
 
 
 </RelativeLayout>
-
-
-
-
 
 
 

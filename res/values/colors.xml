@@ -19,4 +19,6 @@
     <color name="TableRowLinerBottomElements_black">#111010</color>
     <color name="white">#FAFAFA</color>
     <color name="none">#00FAFAFA</color>
+
+    <color name="TextWhite">#CBFFFEFE</color>
 </resources>

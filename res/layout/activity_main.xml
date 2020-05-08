@@ -20,16 +20,6 @@
         android:orientation="vertical">
 
 
-        <!--<Button
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="НОВАЯ ИГРА"
-            android:layout_weight="1"
-            android:id="@+id/"
-            android:layout_marginBottom="10dp" />-->
-
-
-
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -46,9 +36,6 @@
             android:layout_weight="1"
             android:id="@+id/character_btn"
             android:layout_marginBottom="10dp" />
-
-
-
 
 
         <Button

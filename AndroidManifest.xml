@@ -11,28 +11,22 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".ImproveHero"
-            android:screenOrientation="landscape"
-            android:theme="@style/NoActionBarTheme"/>
+            android:screenOrientation="landscape" />
         <activity
             android:name=".Shop"
-            android:screenOrientation="landscape"
-            android:theme="@style/NoActionBarTheme"/>
+            android:screenOrientation="landscape" />
         <activity
             android:name=".Locate"
-            android:screenOrientation="landscape"
-            android:theme="@style/NoActionBarTheme"/>
+            android:screenOrientation="landscape" />
         <activity
             android:name=".SelectCharacter"
-            android:screenOrientation="landscape"
-            android:theme="@style/NoActionBarTheme"/>
+            android:screenOrientation="landscape" />
         <activity
             android:name=".Fight"
-            android:screenOrientation="landscape"
-            android:theme="@style/NoActionBarTheme"/>
+            android:screenOrientation="landscape" />
         <activity
             android:name=".MainActivity"
-            android:screenOrientation="landscape"
-            android:theme="@style/NoActionBarTheme">
+            android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
